@@ -5,8 +5,8 @@ public class ExecutarNome {
 	public static void main(String[] args) {
 		FabricaNome fn = new FabricaNome();
 		
-		String nome = "Anderson";
-		String sobrenome = "Castro";
+		String nome = "Henrique";
+		String sobrenome = "Pucci";
 		
 		fn.getNome(nome, sobrenome);
 
